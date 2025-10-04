@@ -1,6 +1,6 @@
 - 👋 hello, my name is mirza!
-- 👀 i’m interested in reading, playlist curating, and collecting art prints + stickers.
-- 📫 Age: 20
+- 👀 learning python, java, css, html, turkish
+- 📫 Age: 21
 - 😄 Pronouns: he/him
   
 <!---
