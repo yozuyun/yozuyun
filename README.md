@@ -1,7 +1,7 @@
-- 👋 hello, my name is mirza!
-- 👀 learning python, java, css, html, turkish
-- 📫 Age: 21
-- 😄 Pronouns: he/him
+- hello, my name is mirza!
+- age: 21
+- pronouns: he/him
+- learning python, java, css, html, turkish
   
 <!---
 yozuyun/yozuyun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
